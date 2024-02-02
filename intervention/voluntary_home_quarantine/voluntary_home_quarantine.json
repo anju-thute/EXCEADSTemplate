@@ -527,7 +527,8 @@
         }
       ],
       "exceads": {
-        "attributeType": "text"
+        "attributeType": "text",
+        "multiselect": true
       }
     }
   ],
